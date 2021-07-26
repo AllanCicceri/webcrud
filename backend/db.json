@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Amilto",
+      "email": "alsisonne@mail.com",
+      "id": 1
+    },
+    {
+      "name": "marialucy",
+      "email": "mari@lucy.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "megaman",
+      "email": "megaman@mail.com"
+    },
+    {
+      "id": 5,
+      "name": "jucicleia",
+      "email": "juci@mail.com"
+    },
+    {
+      "id": 6,
+      "name": "marlete",
+      "email": "marlete@mail.com"
+    }
+  ]
+}

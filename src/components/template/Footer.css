@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    justify-content: center;
+
+    background-color: #E8E9F3;
+    font-size: 13px;
+    text-align: center;
+    padding: 5px;
+}
+span{
+    text-decoration: line-through;
+}
